@@ -28,6 +28,7 @@ This system is using following open sources.
  - [MIT] CodeIgniter Markdown (https://github.com/jonlabelle/ci-markdown)
  - [MIT] bruma css (http://bulma.io)
  - [MIT] fontawesome * only css (http://fontawesome.io/)
+ - [MIT] markded.js (https://github.com/chjj/marked)
 
 ## License
 Applies to all files.
