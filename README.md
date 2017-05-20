@@ -31,6 +31,6 @@ This system is using following open sources.
  - [MIT] markded.js (https://github.com/chjj/marked)
 
 ## License
-Applies to all files.
-License: MIT License
-URL: http://opensource.org/licenses/mit-license.html
+ - Applies to all files.
+ - License: MIT License
+ - URL: http://opensource.org/licenses/mit-license.html
